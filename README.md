@@ -3,19 +3,19 @@
 ## Base URL
 
 ```
-https://loom.games/api
+https://api.loom.games
 ```
 
 ## API Version
 
 ```
-https://loom.games/api/zb/v1
+https://api.loom.games/zb/v1
 ```
 
 ## Pagination
 
 ```
-https://loom.games/api/zb/v1/decks?page=1&limit=40
+https://api.loom.games/zb/v1/decks?page=1&limit=40
 ```
 
 ## Endpoints
