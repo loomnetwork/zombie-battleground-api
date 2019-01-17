@@ -1,5 +1,9 @@
 # Zombie Battleground API
 
+## Postman
+
+If you would like to import the Postman collection, see [ZombieBattlegroundAPI.postman_collection.json](ZombieBattlegroundAPI.postman_collection.json)
+
 ## Base URL
 
 ```
