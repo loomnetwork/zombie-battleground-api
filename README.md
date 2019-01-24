@@ -4,7 +4,7 @@
 
 To try out all the apis, see our doc explorer
 
-[https://api-docs.loom.games](Zombie Battleground Api Docs Site)
+(https://api-docs.loom.games)[Zombie Battleground Api Docs Site]
 
 ## Base URL
 
