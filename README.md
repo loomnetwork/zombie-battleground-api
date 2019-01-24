@@ -1,8 +1,10 @@
 # Zombie Battleground API
 
-## Postman
+## API Doc Site
 
-If you would like to import the Postman collection, see [ZombieBattlegroundAPI.postman_collection.json](ZombieBattlegroundAPI.postman_collection.json)
+To try out all the apis, see our doc explorer
+
+[https://api-docs.loom.games](Zombie Battleground Api Docs Site)
 
 ## Base URL
 
